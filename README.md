@@ -1,2 +1,2 @@
 # githubtestrepoforazure
-for testing
+Test
